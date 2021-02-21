@@ -1,3 +1,5 @@
+// code from https://ethereum.org/en/developers/docs/smart-contracts/
+
 pragma solidity 0.6.11;
 
 contract VendingMachine {
